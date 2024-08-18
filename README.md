@@ -9,6 +9,7 @@ This project focuses on data analysis, including Exploratory Data Analysis (EDA)
 - **Power BI Visualizations:** Interactive dashboards and visual reports.
 
 ## Files
+- `preprocessing.ipynb`: Data cleaning, preprocessing, EDA and PCA.
 - `PowerBI_presentation.pdf`: A comprehensive presentation of the project findings.
 - `PowerBI_presentation.pbit`: The Power BI file containing the complete data visualization project.
 
